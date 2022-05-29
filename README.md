@@ -31,6 +31,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ---
 
+## Login/signup
+
+For authentication use the following credentials to get results for user based collaborative filtering.\
+```
+USERNAME:Celestyn
+EMAIL:cbeake0@china.com.cn
+PASSWORD:VI3m2RvV
+```
+
+---
+
 ## Recommendation Engine
 
 A recommender system in JavaScript built with NodeJs. It uses the popular [MovieLens](https://www.kaggle.com/rounakbanik/the-movies-dataset/data) database which includes information about movies and ratings of users. The recommender system implements the following recommendation strategies:
