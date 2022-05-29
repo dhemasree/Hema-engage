@@ -33,11 +33,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Login/signup
 
-For authentication use the following credentials to get results for user based collaborative filtering.\
+For authentication use the following credentials to get results for user based collaborative filtering.
 ```
-USERNAME:Celestyn
-EMAIL:cbeake0@china.com.cn
-PASSWORD:VI3m2RvV
+USERNAME: Celestyn
+EMAIL: cbeake0@china.com.cn
+PASSWORD: VI3m2RvV
 ```
 
 ---
