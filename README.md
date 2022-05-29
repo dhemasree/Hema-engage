@@ -2,6 +2,10 @@
 
 ### Setup
 
+```sh
+$ git clone https://github.com/dhemasree/Hema-engage.git
+```
+
 Open terminal in the project folder.
 
 ```sh
